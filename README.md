@@ -3,6 +3,16 @@ Use ROS2 Humble
 
 Lidar: SLAMTEC LPX-T1
 
+i'm use intensities from reflection sticker to detect 2 point 
+
+then i have to convert intensities to TF 
+
+then group all in area that i call proximity_threshold
+
+then determine middle each group then determine midpoint and public TF
+
+# HOPE THIS REPO IS HELPFUL THANK YOU!!!
+
 
 # With TF
 ![image](https://github.com/user-attachments/assets/59f67bed-6f9e-4d15-bae1-4284efcae5b0)

@@ -6,3 +6,6 @@
 
 # with MarkerArray
 ![image](https://github.com/user-attachments/assets/8dc258a0-c717-4372-94cd-c85195b4b939)
+
+# define diameter from Group1 to Group2
+![image](https://github.com/user-attachments/assets/26b99f37-f38a-486d-82eb-869e767330ea)

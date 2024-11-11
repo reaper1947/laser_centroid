@@ -1,4 +1,6 @@
 # laser_midpoint
+Use ROS2 Humble 
+Lidar: SLAMTEC LPX-T1
 
 
 # With TF

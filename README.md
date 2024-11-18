@@ -1,4 +1,4 @@
-# laser_midpoint
+# laser_centroid
 Use ROS2 Humble 
 
 Lidar: SLAMTEC LPX-T1
